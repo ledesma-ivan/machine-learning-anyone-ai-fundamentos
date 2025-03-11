@@ -1,0 +1,1 @@
+A project that provides an API for accessing NBA data. Includes endpoints for retrieving NBA player and team information, game statistics, and other NBA-related data.

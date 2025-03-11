@@ -1,0 +1,1 @@
+A project that uses machine learning techniques for predicting NBA All-Star players. Includes data preprocessing, feature engineering, and supervised machine learning models for accurate prediction of NBA All-Star players.
