@@ -5,3 +5,6 @@ requests
 joblib
 nba_api
 ipykernel
+scikit-learn
+pyarrow
+fastparquet

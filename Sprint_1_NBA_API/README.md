@@ -6,7 +6,7 @@ Este proyecto proporciona una API para acceder a datos de la NBA. Incluye puntos
 ### 1. Crear un entorno virtual
 
 ```bash
-python3 -m venv venv
+python -m venv .venv
 ```
 
 ### 2. Activar el entorno virtual
