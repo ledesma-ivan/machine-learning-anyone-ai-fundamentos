@@ -14,8 +14,8 @@ def main():
 
     logger.info(f"Columnas disponibles: {players_df.columns.tolist()}")
 
-    #Paso 1.5: Limitar a los primeros N jugadores activos
-    max_players = 450
+    # Paso 1.5: Limitar a los primeros N jugadores activos
+    max_players = 1
     limited_df = players_df.head(max_players)
     logger.info(f"Se seleccionaron los primeros {max_players} jugadores activos: {limited_df['PERSON_ID'].tolist()}")
 

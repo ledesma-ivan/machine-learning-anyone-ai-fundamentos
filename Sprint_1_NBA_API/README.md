@@ -21,8 +21,6 @@ source venv/bin/activate
 .\venv\Scripts\activate
 ```
 
-> **¿Para qué sirve esto?**  
-Nos permite mantener el proyecto en onda, para que todos podamos correr el mismo codigo, sin diferencias de las versiones ya que eso nos puede generar conflictos en las depedencias.
 ---
 
 ## Instalacion de dependencias
