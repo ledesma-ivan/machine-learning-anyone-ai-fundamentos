@@ -33,7 +33,8 @@ pip install -r requirements.txt
 
 
 ## Como ejecutarlo?
-
+Asi y indicamos la cantidad de jugadores que queremos que extraiga:
 ```bash
-python3 src/main.py
+python3 src/main.py --max_players 10
+
 ```
