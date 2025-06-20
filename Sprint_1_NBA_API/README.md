@@ -35,5 +35,5 @@ pip install -r requirements.txt
 ## Como ejecutarlo?
 
 ```bash
-pip install -r python src/main.py
+python3 src/main.py
 ```
