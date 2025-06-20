@@ -30,3 +30,10 @@ Una vez activado el entorno virtual, ejecutá:
 ```bash
 pip install -r requirements.txt
 ```
+
+
+## Como ejecutarlo?
+
+```bash
+pip install -r python src/main.py
+```
